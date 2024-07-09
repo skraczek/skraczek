@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @skraczek
-- 👀 I’m interested in music, astronomy, poetry, dance, literature :>
-- 🌱 I’m currently learning: c++ if it comes to programming :c
-- 💞️ I’m looking to collaborate on: idrk
+- 👀 I’m interested in astronomy :>
+- 🌱 I’m currently learning: everything 
 - 📫 How to reach me? discord: skraczek
 
 <!---
